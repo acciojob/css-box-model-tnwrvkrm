@@ -1,31 +1,8 @@
 /* Your CSS Code here. */
-*{
-	margin: auto;
-}
-
-.p{
-	border: 1px dashed black;
-}
-
-.d{
-	width: 300px;
-	padding: 30px 10px;
-	border: 1px solid black;
-}
-
-.c{
-	padding: 50px;
-	background: lightblue;
-	box-shadow: 0 0 10px 1px;
-}
-
-.b{
-	border: 15px solid blue;
-	margin: 20px;
-}
-
 .a{
-	border: 1px solid black;
-	width: fit-content;
-	height: fit-content;
+	margin: 20px;
+	border: 15px solid blue;
+	padding: 50px;
+	background-color: lightblue;
+	width: 300px;
 }
